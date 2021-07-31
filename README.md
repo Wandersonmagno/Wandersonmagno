@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wandersonmagno
 - 👀 I’m interested in learn
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on all
+- 💞️ I’m looking to collaborate with everyone
 - 📫 How to reach me 
 -  <div>
   <a href="https://github.com/rafaballerini">
